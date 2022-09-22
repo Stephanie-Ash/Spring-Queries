@@ -1,3 +1,3 @@
 # Spring-Queries
 
-Spring custome query practice.
+Spring custom query practice.
